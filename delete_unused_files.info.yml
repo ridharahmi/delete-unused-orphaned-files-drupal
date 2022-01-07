@@ -1,0 +1,6 @@
+name: 'delete unused/orphaned files'
+type: module
+description:  'Permanently delete unused/orphaned files in drupal'
+package: Custom
+#core: 8.x
+core_version_requirement: ^8.8.0 || ^9.0
