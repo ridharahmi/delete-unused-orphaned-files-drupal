@@ -1,0 +1,27 @@
+{
+  "name": "file/delete_unused_files",
+  "type": "drupal-module",
+  "description": "Permanently delete unused/orphaned files in drupal 8|9",
+  "authors": [
+    {
+      "name": "Ridha Rahmi",
+      "email": "ridharahmi@hotmail.com",
+      "homepage": "https://www.drupal.org/u/ridha-rahmi",
+      "role": "Maintainer"
+    }
+  ],
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/ridharahmi/delete-unused-orphaned-files-drupal",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/ridharahmi/delete-unused-orphaned-files-drupal/issues",
+    "source": "https://github.com/ridharahmi/delete-unused-orphaned-files-drupal"
+  },
+  "require": {
+    "drupal/file": "*"
+  },
+  "suggest": {
+    "drupal/content": "*",
+  }
+}
