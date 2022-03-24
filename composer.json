@@ -1,5 +1,5 @@
 {
-  "name": "file/delete_unused_files",
+  "name": "ridharahmi/delete-unused-orphaned-files-drupal",
   "type": "drupal-module",
   "description": "Permanently delete unused/orphaned files in drupal 8|9",
   "authors": [
