@@ -22,6 +22,6 @@
     "drupal/file": "*"
   },
   "suggest": {
-    "drupal/content": "*",
+    "drupal/content": "*"
   }
 }
