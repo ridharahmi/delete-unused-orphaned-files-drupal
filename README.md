@@ -2,5 +2,5 @@
 
 ### Installation
 ~~~
-composer require file/delete_unused_files
+composer require ridharahmi/delete-unused-orphaned-files-drupal
 ~~~
